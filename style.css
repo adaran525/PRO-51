@@ -1,0 +1,13 @@
+.header{
+    border:solid;
+    color:#663399;
+    font: menu;
+
+}
+
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    font: menu;
+    color: #2e8b57;
+}
